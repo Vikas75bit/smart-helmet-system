@@ -44,5 +44,4 @@ The LCD displays system status in real time.
 
 ---
 
-## 🖥️ Code
-Located in:
+
