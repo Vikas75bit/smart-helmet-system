@@ -1,0 +1,7 @@
+Arduino Uno / Nano
+IR Sensor (x2)
+MQ3 Alcohol Sensor
+Buzzer
+LED
+16x2 LCD with I2C module
+Breadboard & Jumper Wires
